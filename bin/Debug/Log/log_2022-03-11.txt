@@ -1,0 +1,64 @@
+2022-03-11 07:56:03.3546|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-11 07:56:03.4366|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-11 07:56:16.0163|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma ingles
+2022-03-11 07:56:16.1887|ERROR|SACSA.Resourses.Globales|Se ha producido un error al tratar de establecer el idioma ingles
+2022-03-11 07:56:17.1222|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 07:56:20.0936|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 07:56:21.3810|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-11 07:56:21.3840|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOSTON Costo tarifa: $18600  Codigo Lugar:  75 Zona:  4, Capturados. Redireccionando A resumen del servicio
+2022-03-11 07:56:23.1248|DEBUG|SACSA.Resourses.Globales|Armando impresion,enviando a impresora y registrando en base de datos
+2022-03-11 07:57:11.1808|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-03-11 07:57:11.2061|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-03-11 07:57:11.2336|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-03-11 07:57:11.2549|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-03-11 07:57:16.3408|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-11 07:57:17.2929|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 07:57:19.1457|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-11 07:57:19.1457|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  HENEQUEN Costo tarifa: $28200  Codigo Lugar:  422 Zona:  9, Capturados. Redireccionando A resumen del servicio
+2022-03-11 07:57:21.3270|DEBUG|SACSA.Resourses.Globales|Armando impresion,enviando a impresora y registrando en base de datos
+2022-03-11 08:56:28.9825|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-11 08:56:29.0671|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-11 11:08:44.1887|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-11 11:08:44.2754|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-11 11:45:09.0326|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-11 11:45:09.1176|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-11 11:45:12.2751|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-11 11:45:15.4397|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:45:16.5066|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:45:18.4255|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:45:19.6015|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:45:20.7375|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:45:21.5615|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:45:22.0170|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:45:22.6575|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:45:23.1617|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:59:42.1269|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-11 11:59:42.1933|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-11 11:59:44.0497|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-11 11:59:46.2933|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:59:46.6505|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:59:47.1297|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:59:47.5298|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:59:48.3859|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:59:49.0577|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:59:49.4977|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:59:51.7216|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 11:59:52.0816|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 12:26:20.9875|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-11 12:26:21.0474|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-11 12:26:26.5799|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-11 12:26:28.9008|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 12:26:29.4113|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 12:26:29.8278|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 12:26:30.3152|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 12:26:31.1552|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 12:26:32.0115|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 12:26:32.4033|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 12:26:32.8514|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 12:26:33.3312|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-11 15:05:40.7338|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-11 15:05:40.8180|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-11 15:15:47.2222|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-11 15:15:47.2741|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-11 15:15:51.2033|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-11 15:15:52.2737|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito

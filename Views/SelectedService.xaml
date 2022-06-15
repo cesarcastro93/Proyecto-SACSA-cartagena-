@@ -1,0 +1,37 @@
+﻿<Page x:Class="SACSA.Views.SelectedService"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:ComponentesBoton="clr-namespace:Vt_Controles_WPF_NetFr.Componentes.Botones;assembly=Vt-Controles-WPF-NetFr"
+      xmlns:ComponentesTeclado="clr-namespace:Vt_Controles_WPF_NetFr.Componentes.Teclado.Numerico;assembly=Vt-Controles-WPF-NetFr"
+      xmlns:ComponenteCamploTexto="clr-namespace:Vt_Controles_WPF_NetFr.Componentes.CampoTexto;assembly=Vt-Controles-WPF-NetFr"
+      xmlns:ComponentesLista="clr-namespace:Vt_Controles_WPF_NetFr.Componentes.Lista;assembly=Vt-Controles-WPF-NetFr"
+      xmlns:local="clr-namespace:SACSA.Views"
+      mc:Ignorable="d" 
+      Height="785" Width="1280"
+      Loaded="Page_Loaded"
+      Unloaded="Page_Unloaded"
+      Title="SelectedService">
+
+    <Grid Margin="0,-6,0,10">
+        <ComponentesTeclado:TecladoAlfabetico1 Margin="250,428,250,3" Name="Teclado" />
+        <ComponenteCamploTexto:CampoDeTexto Name="CampoSeleccion" VerticalAlignment="Top" Margin="-10,201,10,0" />
+        <ComponentesLista:Lista Name="ListaAutocompletar" Margin="108,282,132,0" Visibility="Visible" VerticalAlignment="Top" VerticalContentAlignment="Top" HorizontalContentAlignment="Center" />
+        <ComponentesBoton:BotonVt
+            Margin="232,684,0,0"
+            x:Name="btnAtras" 
+            Height="81" Width="238" 
+            VerticalAlignment="Top" HorizontalAlignment="Left" 
+            ComponenteClick="btnAtras_ComponenteClick"
+            ImagenEstadoBase="./IMG/Volver.png" 
+            ImagenAltoContraste="./IMG/Volver-AC.png"
+            ImagenBlancoYNegro="./IMG/Atras.png"
+            ImagenBlackTouch="./IMG/Atras.png"
+            TextoAReproducir="Presione para ir al inicio"
+            />
+
+    </Grid>
+
+
+</Page>

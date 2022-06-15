@@ -1,0 +1,74 @@
+﻿<Window x:Class="SACSA.Componentes.Impresion.CanvasImpresionTurno"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SACSA.Componentes.Impresion"
+        xmlns:Componentes="clr-namespace:SACSA.Componentes.EtiquetaDeImpresion"
+        mc:Ignorable="d"
+        Title="CanvasImpresionTurno" Height="Auto" Width="280" MaxWidth="300">
+    <Window.Resources>
+        <Style TargetType="{x:Type Grid}" x:Key="MargenColumnas">
+            <Setter Property="Margin" Value="0,-5,0,0"/>
+            <Setter Property="Width" Value="Auto"/>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Canvas x:Name="PanelImpresion">
+
+            <Grid x:Name="DetailsTurn" Visibility="Hidden">
+            </Grid>
+
+            <Grid x:Name="DetailsTurnOLD" Visibility="Hidden">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="280"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <!--Definición Impresión Logo-->
+                <Grid Grid.Column="0" Grid.Row="0" Style="{StaticResource MargenColumnas}" x:Name="Fila_Logo" Visibility="Visible" Margin="0,-30,0,-15" >
+                    <Image Name="Ima_Logo"  Width="144" Height="144"/>
+                </Grid>
+                
+                <Componentes:Lb_Impresion Grid.Column="0" Grid.Row="1" Foreground="Black"  x:Name="lb_TextoBienvenida" TamanoMaximo="300" Height="Auto" Width="Auto" Margin="0,-30,0,-0"></Componentes:Lb_Impresion>
+                <Componentes:Lb_Impresion Grid.Column="0" Grid.Row="2" Foreground="Black"  x:Name="lb_NumTicket" TamanoMaximo="300" Height="Auto" Width="Auto" Margin="0,-10,0,0"></Componentes:Lb_Impresion>
+                <Componentes:Lb_Impresion Grid.Column="0" Grid.Row="3" Foreground="Black"  x:Name="lb_Advert" TamanoMaximo="300" Height="Auto" Width="Auto" Margin="0,-10,0,0"></Componentes:Lb_Impresion>
+                <Componentes:Lb_Impresion Grid.Column="0" Grid.Row="4" Foreground="Black"  x:Name="lb_Advert2" TamanoMaximo="300" Height="Auto" Width="Auto" Margin="0,-10,0,0"></Componentes:Lb_Impresion>
+                <Componentes:Lb_Impresion Grid.Column="0" Grid.Row="5" Foreground="Black"  x:Name="lb_Destino" TamanoMaximo="300" Height="Auto" Width="Auto" Margin="0,-10,0,0"></Componentes:Lb_Impresion>
+
+                <!--Impresión HORA Y FECHA-->
+                <Grid Grid.Column="0" Grid.Row="6" Style="{StaticResource MargenColumnas}" x:Name="Fila_FechaHora" Visibility="Visible">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto"/>
+                    </Grid.RowDefinitions>
+                    <Componentes:Lb_Impresion Grid.Row="1" x:Name="Lb_Fecha" TamanoMaximo="300" Height="Auto" Width="Auto"></Componentes:Lb_Impresion>
+                </Grid>
+
+                <Componentes:Lb_Impresion Grid.Column="7" Grid.Row="2" Foreground="Black"  x:Name="lb_ValorAPagar" TamanoMaximo="300" Height="Auto" Width="Auto" Margin="0,-10,0,0"></Componentes:Lb_Impresion>
+
+
+                <Componentes:Lb_Impresion Grid.Column="8" Grid.Row="2" Foreground="Black"  x:Name="lb_Decreto" TamanoMaximo="300" Height="Auto" Width="Auto" Margin="0,-10,0,0"></Componentes:Lb_Impresion>
+                <Componentes:Lb_Impresion Grid.Column="9" Grid.Row="2" Foreground="Black"  x:Name="lb_ConserveTicket" TamanoMaximo="300" Height="Auto" Width="Auto" Margin="0,-10,0,0"></Componentes:Lb_Impresion>
+                <Componentes:Lb_Impresion Grid.Column="10" Grid.Row="2" Foreground="Black"  x:Name="lb_Advert3" TamanoMaximo="300" Height="Auto" Width="Auto" Margin="0,-10,0,0"></Componentes:Lb_Impresion>
+                <Componentes:Lb_Impresion Grid.Column="11" Grid.Row="2" Foreground="Black"  x:Name="lb_Sugerencias" TamanoMaximo="300" Height="Auto" Width="Auto" Margin="0,-10,0,0"></Componentes:Lb_Impresion>
+                <Componentes:Lb_Impresion Grid.Column="12" Grid.Row="2" Foreground="Black"  x:Name="lb_PaginaSACSA" TamanoMaximo="300" Height="Auto" Width="Auto" Margin="0,-10,0,0"></Componentes:Lb_Impresion>
+            </Grid>
+        </Canvas>
+    </Grid>
+</Window>

@@ -1,0 +1,66 @@
+2022-06-06 11:31:12.0071|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-06-06 11:31:12.2299|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-06 11:31:14.1468|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-06 11:31:15.1455|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:31:15.3001|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-06 11:31:17.2400|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:31:17.2699|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-06 11:31:18.3120|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:31:18.3418|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-06 11:31:19.5456|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:31:19.5757|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-06 11:32:07.2257|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-06-06 11:32:07.3808|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-06 11:32:08.8716|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-06 11:32:09.7934|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:32:09.8831|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-06 11:32:11.5595|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:32:11.5892|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-06 11:32:12.3515|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:32:12.3805|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-06 11:32:13.5194|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:32:13.5505|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-06 11:33:05.9140|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-06-06 11:33:06.0802|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-06 11:33:07.6396|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-06 11:33:08.6009|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:33:08.6918|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-06 11:34:11.7880|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-06-06 11:34:11.9472|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-06 11:34:14.0471|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-06 11:34:15.0721|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:34:16.5265|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:34:18.2544|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:34:20.2070|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:34:21.1665|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:34:35.1584|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-06-06 11:34:35.1584|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  CENTRO Costo tarifa: $12050  Codigo Lugar:  4 Zona:  1, Capturados. Redireccionando A resumen del servicio
+2022-06-06 11:34:41.2303|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton atras en resumen servicio, redireccionando al inicio
+2022-06-06 11:34:42.1903|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-06 11:34:43.6468|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:34:44.2946|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:34:45.1350|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:34:45.8951|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:34:46.2068|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:34:47.9319|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-06-06 11:34:47.9319|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:   CENTRO HISTORICO - ZONA HOTELERA Costo tarifa: $14600  Codigo Lugar:  544 Zona:  2, Capturados. Redireccionando A resumen del servicio
+2022-06-06 11:34:59.8941|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton atras en resumen servicio, redireccionando al inicio
+2022-06-06 11:35:54.3946|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-06-06 11:35:54.5626|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-06 11:35:57.9216|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-06 11:35:59.3671|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:36:00.2545|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:36:01.5746|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:36:02.3814|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:36:03.4335|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-06-06 11:36:03.4355|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  CENTRO Costo tarifa: $12800  Codigo Lugar:  4 Zona:  1, Capturados. Redireccionando A resumen del servicio
+2022-06-06 11:36:13.3089|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton atras en resumen servicio, redireccionando al inicio
+2022-06-06 11:36:14.3093|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-06 11:36:15.4784|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:36:16.1736|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:36:17.2539|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:36:18.2129|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:36:18.5105|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-06 11:36:53.5749|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-06 11:37:04.3214|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-06 11:37:04.3214|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.

@@ -1,0 +1,29 @@
+2022-06-01 15:10:39.0648|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-06-01 15:10:39.2555|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-01 15:10:43.3728|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-06-01 15:10:43.3946|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-06-01 15:10:43.4259|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-06-01 15:10:43.4472|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-06-01 15:10:44.5718|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-06-01 15:10:44.5718|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-06-01 15:10:44.5718|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-06-01 15:10:44.5718|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-06-01 15:10:45.0039|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-06-01 15:10:45.0039|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-06-01 15:10:45.0039|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-06-01 15:10:45.0039|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-06-01 15:10:45.5317|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia BlackTouch
+2022-06-01 15:10:45.5548|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en el index
+2022-06-01 15:10:45.5888|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en seleccion servicio
+2022-06-01 15:10:45.6248|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en Resumen del servicio
+2022-06-01 15:10:47.0597|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-06-01 15:10:47.0597|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-06-01 15:10:47.0597|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-06-01 15:10:47.0597|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-06-01 15:10:48.0918|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-01 15:10:49.1975|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-01 15:10:49.2969|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-01 15:10:52.5552|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-06-01 15:10:53.8676|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-01 15:10:55.1564|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-01 15:10:55.1864|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor

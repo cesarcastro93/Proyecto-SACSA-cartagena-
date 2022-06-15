@@ -1,0 +1,39 @@
+﻿<Page x:Class="SACSA.Views.Index"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+      xmlns:ComponentesBoton="clr-namespace:Vt_Controles_WPF_NetFr.Componentes.Botones;assembly=Vt-Controles-WPF-NetFr"
+      xmlns:local="clr-namespace:SACSA.Views"
+      mc:Ignorable="d" 
+      Height="786" Width="1280"
+      Title="Index"
+      >
+
+    <Grid>
+        <TextBox Name="Rtexto" Visibility="Hidden" HorizontalAlignment="Center" Margin="0,335,0,0" TextWrapping="Wrap" Text="Por su seguridad se recomienda utilizar el servicio de taxi autorizado" VerticalAlignment="Top" Width="352" Height="94"/>
+        <ComponentesBoton:BotonVt Margin="0,0,171,596"
+            x:Name="btnEspañol" 
+            Height="123" Width="303" 
+            ComponenteClick="btnEspañol_ComponenteClick"
+            VerticalAlignment="Bottom" HorizontalAlignment="Right" 
+            ImagenEstadoBase="./IMG/Español.png" 
+            ImagenAltoContraste="./IMG/Español-Alto-contraste.png"
+            ImagenBlackTouch="./IMG/BTN_BT.png"
+            TextoAReproducir="Presione para continuar en español"
+            >
+        </ComponentesBoton:BotonVt>
+
+        <ComponentesBoton:BotonVT2 Margin="0,0,806,596"
+            x:Name="btnIngles" 
+            Height="123" Width="303" 
+            ComponenteClick2="btnIngles_ComponenteClick"
+            VerticalAlignment="Bottom" HorizontalAlignment="Right" 
+            ImagenEstadoBase="./IMG/English.png" 
+            ImagenAltoContraste="./IMG/English-Alto-contraste.png" 
+            ImagenBlackTouch="./IMG/BTN_BT.png" 
+            TextoAReproducir="Presione para continuar en Ingles"
+            >
+        </ComponentesBoton:BotonVT2>
+    </Grid>
+</Page>

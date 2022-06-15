@@ -1,0 +1,147 @@
+2022-03-23 09:47:02.9882|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-03-23 09:47:03.1267|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 09:47:06.0904|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 09:47:07.1295|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 09:47:07.3273|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-03-23 10:59:28.1870|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-03-23 10:59:28.2500|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 10:59:29.8015|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 10:59:30.9260|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 10:59:31.0119|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-03-23 14:06:23.1554|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 14:06:23.2484|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 14:06:28.7848|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 14:06:30.3554|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 14:06:31.8280|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 14:06:31.8280|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-03-23 14:06:33.6141|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton atras en resumen servicio, redireccionando al inicio
+2022-03-23 14:06:39.2142|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 14:06:41.1269|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 14:06:42.0156|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 14:06:42.0156|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-03-23 14:13:24.9547|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 14:13:25.0116|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 14:13:31.1883|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 14:13:32.5088|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 14:13:48.6019|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 14:13:48.6039|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOSTON Costo tarifa: $18600  Codigo Lugar:  75 Zona:  4, Capturados. Redireccionando A resumen del servicio
+2022-03-23 14:14:22.1877|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 14:14:22.4876|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 14:14:25.0590|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 14:14:26.3561|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 14:14:27.1288|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 14:14:27.1288|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOSTON Costo tarifa: $18600  Codigo Lugar:  75 Zona:  4, Capturados. Redireccionando A resumen del servicio
+2022-03-23 14:20:15.1363|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 14:20:37.8306|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 14:20:40.0345|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 14:20:41.8267|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 14:20:43.3279|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 14:20:43.3279|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-03-23 14:27:12.6950|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 14:27:37.8533|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 14:27:37.9293|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 14:27:40.9393|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 14:27:42.1991|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 14:27:43.8353|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 14:27:43.8353|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-03-23 14:41:05.1736|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 14:41:05.2295|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 14:41:07.1803|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 14:41:08.6389|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 14:41:09.2102|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 14:41:09.2102|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BALCONES DE ZARAGOCILLA Costo tarifa: $24600  Codigo Lugar:  167 Zona:  6, Capturados. Redireccionando A resumen del servicio
+2022-03-23 14:59:56.1181|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 14:59:56.1988|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 14:59:59.7075|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 15:00:01.5057|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:00:02.5340|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 15:00:02.5340|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BALCONES DE ZARAGOCILLA Costo tarifa: $24600  Codigo Lugar:  167 Zona:  6, Capturados. Redireccionando A resumen del servicio
+2022-03-23 15:02:27.0328|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 15:02:27.0948|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 15:02:29.8020|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 15:02:30.7871|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:02:31.5196|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 15:02:31.5196|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOSTON Costo tarifa: $18600  Codigo Lugar:  75 Zona:  4, Capturados. Redireccionando A resumen del servicio
+2022-03-23 15:04:03.5178|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 15:05:20.7390|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 15:05:23.4486|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 15:05:24.7455|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:05:25.0955|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:05:26.1915|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:05:26.8118|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 15:05:26.8118|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-03-23 15:07:07.0562|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 15:07:09.2979|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 15:07:11.2785|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 15:07:12.6882|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:07:13.4584|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 15:07:13.4584|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-03-23 15:07:53.3897|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton atras en resumen servicio, redireccionando al inicio
+2022-03-23 15:19:15.9994|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 15:19:16.0544|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 15:19:19.1529|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 15:19:20.5219|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:19:21.2115|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 15:19:21.2115|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-03-23 15:38:07.4409|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 15:40:36.9968|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 15:40:37.0708|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 15:40:38.6540|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 15:40:39.9267|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:40:41.0052|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 15:40:41.0052|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-03-23 15:42:40.5022|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 15:47:37.1371|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 15:47:37.1991|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 15:47:38.8973|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 15:47:40.0823|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:47:40.6333|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 15:47:40.6353|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-03-23 15:48:53.6613|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 15:48:53.7253|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 15:48:55.2018|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 15:48:56.3703|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:48:56.9022|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 15:48:56.9022|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  GETSEMANI Costo tarifa: $12200  Codigo Lugar:  7 Zona:  1, Capturados. Redireccionando A resumen del servicio
+2022-03-23 15:52:31.7988|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 15:52:31.8488|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 15:52:36.3197|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 15:52:37.3519|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:52:37.9507|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 15:52:37.9507|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BALCONES DE ZARAGOCILLA Costo tarifa: $24600  Codigo Lugar:  167 Zona:  6, Capturados. Redireccionando A resumen del servicio
+2022-03-23 15:53:40.9252|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 15:53:42.0472|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 15:53:42.5132|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 15:53:42.5132|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOSTON Costo tarifa: $18600  Codigo Lugar:  75 Zona:  4, Capturados. Redireccionando A resumen del servicio
+2022-03-23 16:03:29.6908|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-03-23 16:03:29.7611|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 16:03:32.0423|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 16:03:33.3128|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 16:03:33.4806|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-03-23 16:03:35.4795|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-03-23 16:14:35.7022|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-03-23 16:14:35.7617|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 16:14:38.6661|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 16:15:36.3937|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 16:15:37.6036|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 16:15:37.7135|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-03-23 16:21:53.8153|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 16:21:53.8692|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 16:21:58.4075|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 16:21:59.5845|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 16:29:00.9631|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 16:29:01.7868|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 16:29:02.4975|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 16:29:02.4975|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BALCONES DE ZARAGOCILLA Costo tarifa: $24600  Codigo Lugar:  167 Zona:  6, Capturados. Redireccionando A resumen del servicio
+2022-03-23 16:37:18.9559|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-23 16:37:19.0429|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-23 16:37:21.6161|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-03-23 16:37:21.6383|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-03-23 16:37:21.6657|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-03-23 16:37:21.6850|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-03-23 16:37:22.3827|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-23 16:37:23.4325|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-23 16:37:24.5402|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-03-23 16:37:24.5402|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  JUNIN Costo tarifa: $18600  Codigo Lugar:  208 Zona:  4, Capturados. Redireccionando A resumen del servicio
+2022-03-23 16:38:12.4278|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-03-23 16:38:14.5430|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.

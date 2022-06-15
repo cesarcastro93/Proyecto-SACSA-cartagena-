@@ -1,0 +1,80 @@
+2022-06-03 07:47:18.7800|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-06-03 07:47:18.9982|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-03 07:47:21.3853|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-03 07:47:23.0284|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:47:23.1708|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-03 07:47:25.0400|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-06-03 07:47:27.9120|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-03 07:47:30.3433|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:47:30.3743|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-03 07:49:09.6969|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-06-03 07:49:09.8578|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-03 07:49:11.6225|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-03 07:49:13.2891|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:14.9593|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:16.6554|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:27.6633|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:28.0305|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:34.9827|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:35.6072|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:36.8863|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:37.4478|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:38.2863|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:39.2865|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:39.6623|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:40.1903|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:40.7751|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 07:49:40.7751|DEBUG|SACSA.Resourses.Globales|Ingresando a apagado del sistema
+2022-06-03 07:50:02.6734|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-06-03 07:50:02.8594|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-03 07:50:04.4948|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-03 07:50:07.4540|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-06-03 07:50:54.4941|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-03 15:01:26.9640|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-06-03 15:01:27.7837|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-03 15:01:32.5535|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-03 15:01:33.6271|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:01:34.0875|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:01:34.5936|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:01:35.0576|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:01:35.7835|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:01:36.4314|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:01:36.9128|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:01:38.4794|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:01:38.9289|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:01:38.9289|DEBUG|SACSA.Resourses.Globales|Ingresando a apagado del sistema
+2022-06-03 15:02:13.8547|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-06-03 15:02:14.0187|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-03 15:02:16.3690|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-03 15:02:17.3929|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:02:17.7751|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:02:22.4803|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:02:22.8471|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:02:23.5199|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:02:24.5996|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:02:24.9767|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:02:25.4390|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:02:25.7748|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:02:25.7748|DEBUG|SACSA.Resourses.Globales|Ingresando a apagado del sistema
+2022-06-03 15:05:27.8053|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-06-03 15:05:27.9669|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-03 15:05:35.2954|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-03 15:05:36.7615|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:05:36.9195|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-03 15:05:37.2934|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:05:37.3224|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-03 15:05:37.9748|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:05:38.0041|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-03 15:05:38.5734|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:05:38.6034|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-03 15:05:39.2556|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:05:39.2846|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-03 15:05:39.8110|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:05:39.8410|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-03 15:05:40.1814|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:05:40.2116|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-03 15:05:41.2132|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:05:41.2422|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-03 15:05:41.5735|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-03 15:05:41.6015|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-03 15:05:41.6015|DEBUG|SACSA.Resourses.Globales|Ingresando a apagado del sistema

@@ -1,0 +1,39 @@
+﻿<Window x:Class="SACSA.Impresion.canvasDeImpresion"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SACSA.Impresion"
+         Top="0" Left="0" WindowStyle="None" ResizeMode="NoResize" 
+        mc:Ignorable="d"
+        Title="canvasDeImpresion" Height="420" Width="320">
+    <Canvas Name="CanvasImpresion" Margin="5,30,5,0">
+        <Grid Height="500" Width="399" RenderTransformOrigin="0.727,0.328" Canvas.Top="-28" Canvas.Left="-41">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="7*"/>
+                <ColumnDefinition Width="311*"/>
+            </Grid.ColumnDefinitions>
+            <Label x:Name="Lbl_Bienvenido" Content="Bienvenido a Cartagena de indias " HorizontalContentAlignment="CENTER" HorizontalAlignment="Left" Margin="25,13,0,465" Width="300" Grid.Column="1" FontWeight="Bold" FontSize="11"/>
+            <Label x:Name="Lbl_Consecutivo" Content="Consecutivo:" HorizontalContentAlignment="CENTER" HorizontalAlignment="Left" Margin="89,30,0,443" Width="83" FontSize="12" FontWeight="Bold" Grid.Column="1"/>
+            <Label x:Name="Lbl_NumConsecutivo" Content="00000001" HorizontalContentAlignment="CENTER" HorizontalAlignment="Left" Margin="178,30,0,443" Width="72" FontSize="12" Grid.Column="1" FontWeight="Bold"/>
+            <Label x:Name="Lbl_advertencia" Content="Por su seguridad utilice los taxis autorizados " HorizontalContentAlignment="CENTER" Margin="14,47,0,422" Width="325" HorizontalAlignment="Left"  FontWeight="Bold" Grid.Column="1" FontSize="10"/>
+            <Label x:Name="Lbl_Pbx" Content="PBX:6663709"  HorizontalContentAlignment="CENTER"  HorizontalAlignment="Left" Margin="137,63,0,411" Width="83" Grid.Column="1"/>
+            <Label x:Name="Lbl_Nit" Content="NIT: 800-256-531-0" HorizontalContentAlignment="Center" Margin="113,79,0,396" HorizontalAlignment="Left"  Width="121" Grid.Column="1"/>
+            <Label x:Name="Lbl_Advertencia2"  FontWeight="Bold" Content="Este tiquete no es valido como factura " HorizontalAlignment="Left" Margin="83,92,0,0" VerticalAlignment="Top" Grid.Column="1" FontSize="10"/>
+            <Label x:Name="Lbl_Destino" Content="Destino:" HorizontalContentAlignment="Left" HorizontalAlignment="Left" Margin="30,160,0,0" VerticalAlignment="Top" Width="82" Grid.Column="1"/>
+            <Label x:Name="Lbl_Fecha" Content="Fecha:" HorizontalAlignment="Left" Margin="30,125,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+            <Label x:Name="Lbl_CostoApagar" Content="Valor a pagar:" HorizontalAlignment="Left" Margin="30,193,0,0" VerticalAlignment="Top" Grid.Column="1"/>
+            <Label x:Name="Lbl_Advertencia3"  Content="El valor a pagar es el de la tarifas oficiales segun decreto 0482 expedido 2021" VerticalAlignment="Top" Width="388" HorizontalAlignment="Left" Height="26" Margin="21,338,0,0" FontSize="8" Grid.Column="1"/>
+            <Grid Grid.Column="1" Margin="46,230,79,164" RenderTransformOrigin="0.5,0.5"  Height="105" Width="265">
+                <Image Name="Ima_Logo" Height="105" Width="265"/>
+            </Grid>
+            <Label x:Name="Lbl_Advertencia4" Content="CONSERVE SU TIQUETE HASTA LLEGAR HASTA LLEGAR A SU LUGAR DE DESTINO" HorizontalContentAlignment="Center"  HorizontalAlignment="Left" Margin="6,368,0,108"  Width="353" FontWeight="Bold" FontSize="8" Grid.ColumnSpan="2"/>
+            <Label x:Name="Lbl_Advertencia6" Content="VERIFIQUE SU EQUIPAJE ANTES DE ABANDONAR EL VEHICULO" FontWeight="Bold" HorizontalContentAlignment="CENTER" Margin="17,377,0,103" Width="308" HorizontalAlignment="Left" FontSize="8" Grid.Column="1" />
+            <Label x:Name="Lbl_Advertencia7" Content="SUGERENCIAS Y OBSERVACIONES (5) 6931351 ext 2740-2747" HorizontalContentAlignment="CENTER" Margin="33,385,0,95" Width="300" HorizontalAlignment="Left" FontSize="8" Grid.Column="1" />
+            <Label x:Name="Lbl_Pagina" Content="www.aeropuertocartagena.com.co" HorizontalContentAlignment="CENTER" Margin="27,395,0,84" Width="300" HorizontalAlignment="Left" FontSize="8" Grid.Column="1" />
+            <Label x:Name="Lbl_FechaServicio" Content="12/12/0000 12:00:00 p.m." HorizontalAlignment="Left" Margin="145,126,0,0" VerticalAlignment="Top" Grid.Column="1"  FontWeight="Bold"/>
+            <Label x:Name="Lbl_DestinoServicio" Content="Bocagrande" HorizontalContentAlignment="left" HorizontalAlignment="Left" Margin="144,160,0,0" VerticalAlignment="Top" Width="189" Grid.Column="1" FontWeight="Bold"/>
+            <Label x:Name="Lbl_CostoApagarServicio" Content="$00000" HorizontalAlignment="Left" Margin="149,193,0,0" VerticalAlignment="Top" Grid.Column="1" FontWeight="Bold"/>
+        </Grid>
+    </Canvas>
+</Window>

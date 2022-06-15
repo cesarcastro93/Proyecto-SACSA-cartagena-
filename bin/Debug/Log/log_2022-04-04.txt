@@ -1,0 +1,407 @@
+2022-04-04 09:14:26.4589|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 09:14:26.5761|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 09:14:36.3619|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 09:15:26.3569|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 09:15:29.1353|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 09:15:30.2102|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 09:15:30.9028|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-04-04 09:15:30.9028|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-04-04 09:16:19.2799|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 09:16:21.0887|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 09:16:23.2868|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 09:16:24.3591|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 09:16:25.6026|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-04-04 09:16:25.6026|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-04-04 09:16:31.1829|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton atras en resumen servicio, redireccionando al inicio
+2022-04-04 10:31:02.0468|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 10:31:02.1261|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 10:31:04.3383|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 10:31:54.5175|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 10:35:35.2285|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 10:35:35.2885|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 10:35:38.6478|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 10:35:40.4423|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 10:35:41.6557|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-04-04 10:35:41.6557|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOCAGRANDE Costo tarifa: $20700  Codigo Lugar:  3 Zona:  5, Capturados. Redireccionando A resumen del servicio
+2022-04-04 10:36:28.6512|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 10:36:31.6663|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 10:37:59.3868|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 10:37:59.4668|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 10:38:10.1259|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 10:38:11.3118|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 10:38:13.7051|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 10:38:13.7282|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 10:38:13.7619|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 10:38:13.7874|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 10:38:14.6622|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-04-04 10:38:19.0219|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 10:38:37.2699|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia BlackTouch
+2022-04-04 10:38:37.2923|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en el index
+2022-04-04 10:38:37.3145|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en seleccion servicio
+2022-04-04 10:38:37.3145|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en Resumen del servicio
+2022-04-04 10:38:37.7973|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 10:38:37.7973|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 10:38:37.7973|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 10:38:37.7973|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 10:38:38.6937|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 10:38:38.6937|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 10:38:38.6957|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 10:38:38.6957|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 12:11:24.3379|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:11:24.5036|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:13:02.9677|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:13:12.0223|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 12:13:12.0333|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 12:13:12.0493|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 12:13:12.0593|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 12:13:13.6074|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 12:13:13.6074|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 12:13:13.6074|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 12:13:13.6074|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 12:13:14.3823|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 12:13:14.3833|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 12:13:14.3833|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 12:13:14.3833|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 12:13:14.9426|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia BlackTouch
+2022-04-04 12:13:14.9544|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en el index
+2022-04-04 12:13:14.9644|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en seleccion servicio
+2022-04-04 12:13:14.9944|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en Resumen del servicio
+2022-04-04 12:13:15.5181|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 12:13:15.5181|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 12:13:15.5181|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 12:13:15.5181|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 12:13:16.0621|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 12:13:16.0621|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 12:13:16.0621|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 12:13:16.0621|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 12:13:52.9757|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 12:14:57.1816|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:14:58.9356|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 12:15:03.2692|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 12:15:03.2692|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 12:15:03.2692|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 12:15:03.2732|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 12:15:04.8402|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-04-04 12:15:04.8402|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  BOSTON Costo tarifa: $18600  Codigo Lugar:  75 Zona:  4, Capturados. Redireccionando A resumen del servicio
+2022-04-04 12:15:47.2645|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 12:15:54.8578|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 12:19:58.4352|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:19:59.8509|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 12:19:59.8519|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 12:19:59.8519|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 12:19:59.8519|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 12:20:48.6063|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 12:21:37.5740|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:21:37.7439|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:21:41.3861|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:22:11.7064|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:22:11.8794|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:22:14.3058|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:22:33.8270|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:22:34.0160|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:22:36.1303|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:22:54.6735|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-04-04 12:23:15.2697|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:23:15.4546|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:23:18.4983|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:23:47.7609|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:23:47.9192|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:23:57.5296|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:26:12.5171|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:26:12.6931|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:26:15.1122|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:27:05.1507|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 12:37:15.6582|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:38:05.7452|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 12:40:10.8804|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:40:11.0407|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:40:14.0097|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:41:04.0133|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 12:41:29.9577|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:41:30.1236|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:41:31.7049|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:42:02.2293|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:42:02.3993|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:42:11.9938|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:42:37.2923|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:42:37.4612|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:42:39.8317|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:43:06.2345|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:43:06.4085|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:43:07.5193|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma ingles
+2022-04-04 12:45:17.7826|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:45:17.9455|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:45:47.5501|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:45:47.7271|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:45:48.9659|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:45:54.1259|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-04-04 12:46:33.1298|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:46:33.2937|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:48:34.6255|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:48:34.7955|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:48:55.8285|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:48:56.0045|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:49:18.2455|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:49:18.4404|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:49:23.4926|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:50:13.5596|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 12:50:20.2194|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:51:11.1961|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:51:11.3871|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:51:18.8832|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:52:06.2829|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 12:52:06.2959|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 12:52:06.3141|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 12:52:06.3244|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 12:52:07.7868|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia BlackTouch
+2022-04-04 12:52:07.7988|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en el index
+2022-04-04 12:52:07.8134|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en seleccion servicio
+2022-04-04 12:52:07.8434|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en Resumen del servicio
+2022-04-04 12:52:08.4909|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 12:52:08.4909|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 12:52:08.4929|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 12:52:08.4929|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 12:52:08.8949|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 12:52:09.0828|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 12:52:09.0928|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 12:52:09.0928|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 12:52:09.1028|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 12:52:10.0103|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 12:52:10.0103|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 12:52:10.0103|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 12:52:10.0103|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 12:52:10.5311|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 12:52:10.5311|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 12:52:10.5311|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 12:52:10.5311|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 12:52:12.0026|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:53:17.0719|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:53:17.2369|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:53:58.5969|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:53:58.7948|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:55:42.2238|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:55:42.4097|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:56:24.3560|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:56:24.5619|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:57:00.9452|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:57:01.1152|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:57:08.2512|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 12:57:58.3007|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 12:58:25.0490|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 12:58:25.2400|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 12:58:27.6247|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 13:20:00.4764|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 13:20:00.6654|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 13:20:09.0208|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 13:20:19.3311|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 13:20:59.0913|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 13:33:25.2181|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 13:33:25.3856|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 13:33:27.4861|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 13:34:17.5388|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 13:41:27.1244|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 13:41:27.2798|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 13:41:29.4824|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 13:41:40.7220|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 13:41:40.7330|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 13:41:40.7692|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 13:41:40.7793|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 13:41:41.9703|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 13:41:41.9703|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 13:41:41.9703|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 13:41:41.9763|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 13:42:19.4937|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 13:44:35.7525|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 13:45:15.5794|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 13:45:15.7593|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 13:46:44.6873|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 13:46:44.8692|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 15:31:18.4806|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 15:31:18.6365|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 15:31:22.9419|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 15:31:27.3470|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-04-04 15:45:26.6227|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 15:45:26.8693|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 15:45:30.5435|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 15:45:34.2209|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:45:34.2329|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:45:34.2564|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:45:34.2665|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:45:35.5567|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 15:45:35.5567|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 15:45:35.5567|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 15:45:35.5567|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 15:46:20.5652|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 15:50:50.3299|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 15:50:50.4998|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 15:50:52.8103|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 15:50:57.6732|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:50:57.6842|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:50:57.6950|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:50:57.6950|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:50:59.2733|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 15:50:59.2733|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 15:50:59.2733|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 15:50:59.2733|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 15:51:00.0972|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:51:00.0972|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:51:00.0972|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:51:00.0972|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:51:01.0252|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia BlackTouch
+2022-04-04 15:51:01.0252|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en el index
+2022-04-04 15:51:01.0452|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en seleccion servicio
+2022-04-04 15:51:01.0752|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en Resumen del servicio
+2022-04-04 15:51:01.9851|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:51:01.9851|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:51:01.9851|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:51:01.9851|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:51:06.7370|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 15:51:06.7370|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 15:51:06.7370|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 15:51:06.7370|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 15:51:08.9448|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:51:08.9458|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:51:08.9458|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:51:08.9458|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:51:12.3049|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 15:51:12.3049|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 15:51:12.3049|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 15:51:12.3049|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 15:51:42.9503|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 15:51:54.6723|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 15:51:54.8658|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 15:51:56.7615|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 15:52:05.4093|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:52:05.4183|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:52:05.4183|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:52:05.4373|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:52:14.1310|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 15:52:16.5367|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 15:52:16.5367|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 15:52:16.5387|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 15:52:16.5387|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 15:52:21.0569|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:52:21.0569|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:52:21.0789|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:52:21.1039|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:52:24.7439|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 15:52:24.7439|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 15:52:24.7439|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 15:52:24.7439|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 15:52:26.5456|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:52:26.5456|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:52:26.5456|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:52:26.5456|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:52:30.0567|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia BlackTouch
+2022-04-04 15:52:30.0567|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en el index
+2022-04-04 15:52:30.0750|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en seleccion servicio
+2022-04-04 15:52:30.1070|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en Resumen del servicio
+2022-04-04 15:52:33.2644|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 15:52:33.2644|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 15:52:33.2644|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 15:52:33.2644|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 15:53:00.8144|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 15:53:00.9924|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 15:53:03.9292|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 15:53:27.3577|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 15:53:27.5386|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 15:53:29.4959|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 15:54:19.4966|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 15:54:28.4396|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:54:28.4532|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:54:28.4612|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:54:28.4612|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:54:29.9283|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia BlackTouch
+2022-04-04 15:54:29.9383|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en el index
+2022-04-04 15:54:29.9473|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en seleccion servicio
+2022-04-04 15:54:29.9788|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en Resumen del servicio
+2022-04-04 15:54:39.5273|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:54:39.5273|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:54:39.5273|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:54:39.5273|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:54:40.8883|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 15:54:40.8883|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 15:54:40.8883|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 15:54:40.8883|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 15:54:41.2953|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:54:41.2953|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:54:41.2953|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:54:41.2953|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:54:41.9514|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia BlackTouch
+2022-04-04 15:54:41.9514|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en el index
+2022-04-04 15:54:41.9514|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en seleccion servicio
+2022-04-04 15:54:41.9785|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en Resumen del servicio
+2022-04-04 15:55:17.9201|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 15:55:25.9423|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:55:25.9423|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:55:25.9423|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:55:25.9463|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:56:07.9387|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 16:02:50.1778|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 16:02:50.2828|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 16:07:09.5743|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 16:07:09.7543|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 16:07:17.9324|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 16:07:19.4900|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 16:08:03.3956|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 16:08:03.4171|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 16:08:03.4466|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 16:08:03.4649|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 16:08:04.5377|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia BlackTouch
+2022-04-04 16:08:04.5570|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en el index
+2022-04-04 16:08:04.5759|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en seleccion servicio
+2022-04-04 16:08:04.6049|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en Resumen del servicio
+2022-04-04 16:08:05.0736|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 16:08:05.0736|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 16:08:05.0736|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 16:08:05.0736|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 16:08:05.7298|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 16:08:05.7298|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 16:08:05.7298|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 16:08:05.7298|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 16:08:07.1294|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 16:08:07.1294|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 16:08:07.1294|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 16:08:07.1294|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 16:08:07.9886|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 16:08:12.7537|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma ingles
+2022-04-04 16:08:17.8256|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 16:08:18.3574|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-04-04 16:08:18.3574|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  GETSEMANI Costo tarifa: $12200  Codigo Lugar:  7 Zona:  1, Capturados. Redireccionando A resumen del servicio
+2022-04-04 16:09:02.7865|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 16:09:08.4454|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 16:13:03.5428|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 16:13:53.5372|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 15:15:04.0925|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 15:15:21.3010|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-04-04 15:15:54.1197|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 15:15:55.6831|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:15:55.6831|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:15:55.6831|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:15:55.6871|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:15:57.4121|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 15:16:09.2042|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 15:16:12.6517|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia base
+2022-04-04 15:16:12.6607|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en el index
+2022-04-04 15:16:12.6607|DEBUG|SACSA.Resourses.Globales|Estableciendo estado base en seleccion servicio
+2022-04-04 15:16:12.6787|DEBUG|SACSA.Resourses.Globales|Estableciendo Estado base en Resumen del servicio
+2022-04-04 15:16:13.9716|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-04-04 15:18:58.0683|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-04-04 15:18:58.2230|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 15:19:29.8266|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 15:19:45.1245|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 15:19:45.7129|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-04-04 15:19:45.7129|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  FREDONIA Costo tarifa: $29200  Codigo Lugar:  97 Zona:  7, Capturados. Redireccionando A resumen del servicio
+2022-04-04 15:20:19.9131|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 15:20:35.7509|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 15:20:49.4108|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-04-04 15:20:49.4313|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-04-04 15:20:49.4572|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-04-04 15:20:49.4772|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-04-04 15:20:51.4416|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 15:21:41.4495|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-04-04 16:29:33.9873|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-04-04 16:29:34.1434|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-04-04 16:29:36.1001|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-04-04 16:29:37.5512|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-04-04 16:29:37.7185|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor

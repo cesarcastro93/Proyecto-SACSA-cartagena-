@@ -1,0 +1,39 @@
+﻿<Page x:Class="SACSA.Views.Instructions"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:ComponentesBoton="clr-namespace:Vt_Controles_WPF_NetFr.Componentes.Botones;assembly=Vt-Controles-WPF-NetFr"
+      xmlns:local="clr-namespace:SACSA.Views"
+      mc:Ignorable="d" 
+      Height="785" Width="1280"
+      Title="Instructions">
+
+    <Grid>
+        <!--<Button Name="btn_nextInstructions" Content="" HorizontalAlignment="Left" Margin="803,0,0,0" VerticalAlignment="Top" Height="791" Width="467" Visibility="Visible" Click="btn_nextInstructions_Click" Opacity="0"/>-->
+        <TextBox Name="txt_Instructions" Visibility="Hidden" HorizontalAlignment="Center" Margin="0,539,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="316" Height="22"/>
+        <!--<Button x:Name="btn_back" Content="" HorizontalAlignment="Left" Margin="10,8,0,0" VerticalAlignment="Top" Height="791" Width="472" Visibility="Visible" Click="btn_back_Click" Opacity="0"/>-->
+        <ComponentesBoton:BotonVt Margin="1141,465,0,0"
+            x:Name="btnNext" 
+            Height="75" Width="130" 
+            ComponenteClick="btn_nextInstructions_Click"
+            VerticalAlignment="Top" HorizontalAlignment="Left" 
+            ImagenEstadoBase="./IMG/Adelante.png" 
+            ImagenAltoContraste="./IMG/Adelante-Alto-contraste.png"
+            ImagenBlackTouch="./IMG/Adelante.png"
+            TextoAReproducir="Presione para continuar"
+            >
+
+        </ComponentesBoton:BotonVt>
+        <ComponentesBoton:BotonVt Margin="0,465,0,0"
+            x:Name="btnBack" 
+            Height="75" Width="130" 
+            ComponenteClick="btn_back_Click"
+            VerticalAlignment="Top" HorizontalAlignment="Left" 
+            ImagenEstadoBase="./IMG/Atras.png" 
+            ImagenAltoContraste="./IMG/Atras-Alto-contraste.png"
+            ImagenBlackTouch="./IMG/Atras.png"
+            TextoAReproducir="Presione para continuar"
+            />
+    </Grid>
+</Page>

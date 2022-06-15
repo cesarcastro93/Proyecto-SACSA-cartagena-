@@ -1,0 +1,43 @@
+﻿<Page x:Class="SACSA.Views.ResumeService"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:ComponentesBoton="clr-namespace:Vt_Controles_WPF_NetFr.Componentes.Botones;assembly=Vt-Controles-WPF-NetFr"
+       xmlns:ComponentesTeclado="clr-namespace:Vt_Controles_WPF_NetFr.Componentes.Teclado.Numerico;assembly=Vt-Controles-WPF-NetFr"
+      xmlns:local="clr-namespace:SACSA.Views"
+      mc:Ignorable="d" 
+      Height="786" Width="1280"
+      Title="ResumeService">
+
+    <Grid>
+        <ComponentesBoton:BotonVt
+            Name="btnImprimir" 
+            Margin="886,673,0,0"
+            Height="86" Width="254" 
+            VerticalAlignment="Top" HorizontalAlignment="Left" 
+            ComponenteClick="btnImprimir_ComponenteClick"
+            ImagenEstadoBase="./IMG/Imprimir.png" 
+            ImagenAltoContraste="./IMG/Imprimir-AC.png"
+            ImagenBlackTouch="./IMG/BTN_BT.png"
+            TextoAReproducir="Pulse para imprimir su ticket"
+        >
+        </ComponentesBoton:BotonVt>
+        <Label Name="lbl_Fecha" Content="hola1" HorizontalAlignment="Left" Margin="616,247,0,0" VerticalAlignment="Top" Height="61" Width="656" FontSize="40" Foreground="White"/>
+        <Label Name="lbl_hora" Content="hola4" HorizontalAlignment="Left" Margin="616,348,0,0" VerticalAlignment="Top" Height="60" Width="656" FontSize="40" Foreground="White"/>
+        <Label Name="lbl_destino" Content="hola2" HorizontalAlignment="Left" Margin="616,455,0,0" VerticalAlignment="Top" Height="63" Width="656" FontSize="40" Foreground="White"/>
+        <Label Name="lbl_ValorAPagar" Content="hola3" HorizontalAlignment="Left" Margin="616,568,0,0" VerticalAlignment="Top" Height="58" Width="656" FontSize="40" Foreground="White"/>
+        <ComponentesBoton:BotonVt
+            x:Name="btnVolver" 
+            Margin="216,673,0,0"
+            Height="86" Width="254" 
+            VerticalAlignment="Top" HorizontalAlignment="Left" 
+            ComponenteClick="btnVolver_ComponenteClick"
+            ImagenEstadoBase="./IMG/Volver.png" 
+            ImagenAltoContraste="./IMG/Volver-AC.png"
+            ImagenBlancoYNegro="./IMG/Atras.png"
+            ImagenBlackTouch="./IMG/Atras.png"
+            TextoAReproducir="Pulse para regresar al inicio"
+        />
+    </Grid>
+</Page> 

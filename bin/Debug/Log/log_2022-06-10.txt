@@ -1,0 +1,49 @@
+2022-06-10 09:30:42.3872|ERROR|SACSA.Resourses.Globales|No se puede conectar con el servidor, verifique conectividad
+2022-06-10 09:30:42.5909|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-10 09:31:53.8001|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-10 09:31:54.9064|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:31:55.1043|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:31:56.5428|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-06-10 09:32:39.1894|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-10 09:32:42.6864|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:32:42.7190|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:32:43.3654|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:32:43.3964|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:32:44.1828|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:32:44.2128|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:32:44.5972|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:32:44.6262|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:32:45.4932|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:32:45.5222|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:32:46.0614|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:32:46.0964|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:32:46.5334|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:32:46.5624|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:32:51.4618|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:32:51.4903|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:32:51.8535|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:32:51.8815|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:32:51.8815|DEBUG|SACSA.Resourses.Globales|Ingresando a apagado del sistema
+2022-06-10 09:33:29.2013|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-10 09:33:29.2013|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-10 09:33:57.1008|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-10 09:33:58.3258|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:33:58.3548|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:33:58.7818|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:33:58.8108|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:33:59.9270|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:33:59.9559|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:34:00.3730|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:34:00.4020|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:34:01.0458|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:34:01.0756|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:34:01.6687|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:34:01.6992|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:34:02.0287|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:34:02.0587|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:34:03.8374|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:34:03.8669|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:34:04.3181|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-10 09:34:04.3471|ERROR|SACSA.Resourses.Globales|error de conexion con el servidor
+2022-06-10 09:34:04.3471|DEBUG|SACSA.Resourses.Globales|Ingresando a apagado del sistema
+2022-06-10 09:34:47.0985|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.

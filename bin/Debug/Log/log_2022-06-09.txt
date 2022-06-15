@@ -1,0 +1,40 @@
+2022-06-09 11:50:09.5836|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-06-09 11:50:09.8045|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-06-09 11:50:13.1565|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-09 11:50:14.6132|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 11:50:15.2848|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 11:50:16.6292|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 11:50:17.6915|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-06-09 11:50:17.6915|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  EL SOCORRO Costo tarifa: $27100  Codigo Lugar:  265 Zona:  11, Capturados. Redireccionando A resumen del servicio
+2022-06-09 11:50:28.7567|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton atras en resumen servicio, redireccionando al inicio
+2022-06-09 11:50:29.7153|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-09 11:50:31.3170|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 11:50:32.1487|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 11:50:32.9473|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 11:50:34.7874|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 11:50:35.7999|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-06-09 11:50:35.7999|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  EL CARMELO Costo tarifa: $27100  Codigo Lugar:  262 Zona:  11, Capturados. Redireccionando A resumen del servicio
+2022-06-09 11:51:19.8455|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-09 11:51:19.8455|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-09 11:51:25.7951|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-09 11:51:25.7951|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-09 11:51:30.8429|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-09 11:51:32.6988|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 11:51:33.5710|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 11:51:34.7640|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 11:51:35.8489|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-06-09 11:51:35.8489|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  EL SOCORRO Costo tarifa: $27100  Codigo Lugar:  265 Zona:  11, Capturados. Redireccionando A resumen del servicio
+2022-06-09 11:52:20.8445|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-09 11:52:25.9749|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-09 12:07:29.7470|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-06-09 12:07:30.6670|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 12:07:36.2591|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 12:07:38.7155|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 12:07:39.8033|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 12:07:40.5327|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 12:07:41.4367|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-06-09 12:07:53.0688|DEBUG|SACSA.Resourses.Globales|Capturando datos del servicio y mostrando en pantalla
+2022-06-09 12:07:53.0688|DEBUG|SACSA.Resourses.Globales|Datos del servicio : Nombre Destino:  EL SOCORRO Costo tarifa: $27100  Codigo Lugar:  265 Zona:  11, Capturados. Redireccionando A resumen del servicio
+2022-06-09 12:08:03.9237|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton atras en resumen servicio, redireccionando al inicio
+2022-06-09 12:08:19.7548|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.
+2022-06-09 12:08:43.1032|DEBUG|SACSA.Resourses.Globales|TimeOut redirigiendo al inicio.

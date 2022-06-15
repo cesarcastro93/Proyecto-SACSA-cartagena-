@@ -1,0 +1,31 @@
+2022-03-16 09:15:42.7017|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-16 09:15:42.7900|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-16 09:15:46.2762|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-03-16 09:15:46.3002|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-03-16 09:15:46.3401|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-03-16 09:15:46.3611|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-03-16 09:15:47.5697|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-16 09:15:48.4396|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-16 09:15:54.2566|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton Atras en seleccion servicio
+2022-03-16 09:17:57.9026|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-16 09:17:57.9696|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-16 09:18:22.7859|INFO|SACSA.Resourses.Globales|Consultando Servicio Web
+2022-03-16 09:18:22.8358|INFO|SACSA.Resourses.Globales|Iniciaizando Virtual-Taxi Cartagena
+2022-03-16 09:18:35.4564|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-03-16 09:18:35.4564|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-03-16 09:18:35.4782|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-03-16 09:18:35.4862|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-03-16 09:18:38.6073|DEBUG|SACSA.Resourses.Globales|Se oprimio el boton con el idioma español
+2022-03-16 09:18:52.8495|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia BlackTouch
+2022-03-16 09:18:52.8877|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en el index
+2022-03-16 09:18:52.9157|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en seleccion servicio
+2022-03-16 09:18:52.9157|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en Resumen del servicio
+2022-03-16 09:18:59.0248|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia AltoContraste
+2022-03-16 09:18:59.0248|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en el index
+2022-03-16 09:18:59.0248|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en seleccion servicio
+2022-03-16 09:18:59.0248|DEBUG|SACSA.Resourses.Globales|Estableciendo AltoContraste en Resumen del servicio
+2022-03-16 09:19:02.3449|INFO|SACSA.Resourses.Globales|Lista de Destinos cargada con exito
+2022-03-16 09:19:07.9433|DEBUG|SACSA.Resourses.Globales|Aplicando apariencia BlackTouch
+2022-03-16 09:19:07.9433|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en el index
+2022-03-16 09:19:07.9433|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en seleccion servicio
+2022-03-16 09:19:07.9433|DEBUG|SACSA.Resourses.Globales|Estableciendo BlackTouch en Resumen del servicio
